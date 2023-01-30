@@ -1,16 +1,9 @@
-# json_file
+# bhagavad_gita_app
 
-A new Flutter project.
+https://user-images.githubusercontent.com/121867931/215444224-ac02ad91-affc-40c9-aeb7-821b436d8c65.mp4
 
-## Getting Started
+<img align='left' src="https://user-images.githubusercontent.com/121867931/215441900-aeef6c7c-2412-4f56-9457-7e9b46e4f7df.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/215441905-5229286b-8d1c-4f8a-a96e-da9465fb711e.png" width="200" height="450">
+<img align='left' src="https://user-images.githubusercontent.com/121867931/215441914-e7503b9e-8610-453b-b847-9dee263956eb.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/215441924-1e787d4a-de8a-4064-a9e6-0c79014bb565.png" width="200" height="450">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
